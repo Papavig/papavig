@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Vignesh Esakkiappan</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi there, I'm Vignesh Esakkiappan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Just a average guy</h3>
 
 - 🔭 I’m currently working on **bunk bot(to bunk my online classes)**
@@ -11,6 +13,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papavig&layout=compact)](https://github.com/papavig/github-readme-stats" />
 
+## 🚀 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
