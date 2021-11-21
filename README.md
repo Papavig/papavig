@@ -11,6 +11,8 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=papavig&show_icons=true&theme=" />
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papavig&layout=compact" />
+
 
 
 ## 🚀 Languages
