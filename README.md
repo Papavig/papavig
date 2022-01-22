@@ -23,7 +23,7 @@
 ## 🦠 My Activities
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=papavig&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 
 
 <h3 align="left">Content me:</h3>
