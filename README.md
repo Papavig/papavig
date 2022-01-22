@@ -20,10 +20,10 @@
 ## 🛠 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🦠 My Activities
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=papavig&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+## 📊 My Activities
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=papavig&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papavig&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papavig&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 
 
 <h3 align="left">Content me:</h3>
