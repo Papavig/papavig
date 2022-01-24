@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Vignesh Esakkiappan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Just a average guy</h3>
 
-- 🔭 I’m currently working on **bunk bot(to bunk my online classes)**
+- 🔭 I’m currently working on **something I found on the internet*
 
 - 🌱 I’m currently learning **Javascript c++**
 
