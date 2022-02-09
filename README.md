@@ -32,9 +32,3 @@
 <a href="https://instagram.com/x_vignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_vignesh" height="30" width="40" /></a>
 <a href="https://discord.gg/PZWEAnC26Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PZWEAnC26Y" height="30" width="40" /></a>
 </p>
-
-----
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=papavig" alt="visitor badge"/>
-</p>
