@@ -26,7 +26,7 @@
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papavig&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 
 
-<h3 align="left"> Content me:</h3>
+<h3 align="left"> Contact Me:</h3>
 <p align="left">
 <a href="https://twitter.com/x_vignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x_vignesh" height="30" width="40" /></a>
 <a href="https://instagram.com/x_vignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_vignesh" height="30" width="40" /></a>
