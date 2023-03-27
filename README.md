@@ -1,4 +1,4 @@
-# 🐵 Vignesh Esakkiappan:
+# 🐵 Vignesh Esakkiappan
 
 **`Devloper/Student`**
 
