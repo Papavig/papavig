@@ -1,6 +1,21 @@
-# 💫 About Me:
-I'm passionate about creating efficient and scalable solutions to complex problems, and I'm always looking for opportunities to collaborate with other developers. Feel free to get in touch with me via my socials to discuss any projects or ideas you have in mind.
+# 🐵 Vignesh Esakkiappan:
 
+**`Devloper/Student`**
+
+I'm passionate about creating efficient and scalable solutions to complex problems, All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code, and I'm always looking for opportunities to collaborate with other developers. Feel free to get in touch with me via my socials to discuss any projects or ideas you have in mind.
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+  I first discovered my passion for coding during my undergraduate studies in Computer Science. I was intrigued by the endless possibilities that programming offered, and I was determined to learn as much as I could. As I began to delve deeper into the world of coding, I realized that it wasn't just a means to an end, but an art form in its own right.
+
+Since then, I have been on a journey to improve my skills as a developer. I've taken on numerous projects, from simple scripts to complex web applications, and I've learned something new from each one. Along the way, I've discovered that coding is more than just typing lines of code - it's about problem-solving, creativity, and collaboration.
+
+One of the most exciting aspects of my coding journey has been the opportunity to work with others in the development community. I've collaborated on open-source projects, attended hackathons and meetups, and connected with other developers from around the world. Being a part of this community has been an invaluable experience, and has helped me grow both as a developer and as a person.
+
+Looking back on my journey so far, I'm proud of how far I've come, but I also know that there is always more to learn. I'm excited to continue exploring the world of coding, taking on new challenges, and contributing to the development community in any way that I can.
+</details>
+
+---
 ### 📋 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,6 +39,8 @@ I'm passionate about creating efficient and scalable solutions to complex proble
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=papavig&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
