@@ -31,7 +31,7 @@ I'm passionate about creating efficient and scalable solutions to complex proble
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papavig&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PZWEAnC26Y)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/beingvig)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/papavig)
-<a class="btn" href="mailto:beingvig@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a target="blank">[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PZWEAnC26Y)</a>
+<a target="blank">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/beingvig)</a>
+<a target="blank">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/papavig)</a>
+<a href="mailto:beingvig@gmail.com" target="blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
