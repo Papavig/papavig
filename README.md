@@ -40,7 +40,7 @@ Looking back on my journey so far, I'm proud of how far I've come, but I also kn
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+#
 
 ## 📊 GitHub Stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=papavig&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
