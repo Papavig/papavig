@@ -16,7 +16,7 @@ Looking back on my journey so far, I'm proud of how far I've come, but I also kn
 </details>
 
 ---
-# 💻 Tech Stack
+## 💻 Tech Stack
 <div align="center">
  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -90,9 +90,9 @@ Looking back on my journey so far, I'm proud of how far I've come, but I also kn
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Papavig/Papavig/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
 </picture>
 
 <div align="center">
