@@ -1,18 +1,24 @@
+![Coding Gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+![Profile views](https://komarev.com/ghpvc/?username=Papavig&label=Profile%20views&color=0e75b6&style=flat)
+
 # 🐵 Vignesh Esakkiappan
 
 **`Devloper/Student`**
 
-I'm passionate about creating efficient and scalable solutions to complex problems, All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code, and I'm always looking for opportunities to collaborate with other developers. Feel free to get in touch with me via my socials to discuss any projects or ideas you have in mind.
+I'm a web developer who loves building things that live on the internet. Flexible with my tech stack, I mainly work with JavaScript and Java but enjoy experimenting with different tools. I thrive in team collaborations, actively participate in hackathons, and stay updated through blogs, YouTube, and tech communities.
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  I first discovered my passion for coding during my undergraduate studies in Computer Science. I was intrigued by the endless possibilities that programming offered, and I was determined to learn as much as I could. As I began to delve deeper into the world of coding, I realized that it wasn't just a means to an end, but an art form in its own right.
+  I’ve always been interested in tech, but my curiosity about how things work truly pushed me toward coding. During the lockdown, I finally had time to think about it seriously, even before I started my Computer Science degree. By my first year, my interest kept growing—I wanted to understand how systems function at a deeper level.
 
-Since then, I have been on a journey to improve my skills as a developer. I've taken on numerous projects, from simple scripts to complex web applications, and I've learned something new from each one. Along the way, I've discovered that coding is more than just typing lines of code - it's about problem-solving, creativity, and collaboration.
+I love building things that stay on the internet. I started simple with HTML and CSS, then explored Python, but it didn’t quite click for me. Around the same time, I was introduced to C and C++ in 11th grade, and that’s when I really started enjoying programming. This interest stuck with me until my second year of college when I discovered Java—it quickly became my favorite language. Over time, I also picked up MySQL, MongoDB, and JavaScript, which I genuinely enjoy working with.
 
-One of the most exciting aspects of my coding journey has been the opportunity to work with others in the development community. I've collaborated on open-source projects, attended hackathons and meetups, and connected with other developers from around the world. Being a part of this community has been an invaluable experience, and has helped me grow both as a developer and as a person.
+While I can work across the stack, I prefer frontend development because I love bringing ideas to life in a way people can see and interact with.
 
-Looking back on my journey so far, I'm proud of how far I've come, but I also know that there is always more to learn. I'm excited to continue exploring the world of coding, taking on new challenges, and contributing to the development community in any way that I can.
+One of my most memorable hackathons was my first-ever hackathon, organized by GeeksforGeeks. Another standout experience was Aviskar, a competition where we pitched innovative ideas for systems that could help society. The event itself was great, but the best part? It was held in a remote location, and after our judging session, some seniors and I explored the venue, stumbled upon a lake, and spent some quality time there—it made the whole experience unforgettable.
+
+For me, coding is more than just writing code. It’s about solving problems, creating useful things, and constantly improving. That’s my goal—to keep learning, keep building, and get better at what I do every day.
 </details>
 
 ---
@@ -73,6 +79,12 @@ Looking back on my journey so far, I'm proud of how far I've come, but I also kn
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=papavig&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papavig&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Papavig/Papavig/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
+</picture>
+
 ## 🌐 Socials:
 <div align="center">
   <a href="https://vigdev.vercel.app/" target="blank">
@@ -86,17 +98,5 @@ Looking back on my journey so far, I'm proud of how far I've come, but I also kn
   </a>
   <a href="mailto:beingvig@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Papavig/Papavig/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
-</picture>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Papavig&icon=2&color=12" alt="Visit Count">
   </a>
 </div>
