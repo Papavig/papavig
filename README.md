@@ -6,7 +6,7 @@
 
 **`Devloper/Student`**
 
-I'm a web developer who loves building things that live on the internet. Flexible with my tech stack, I mainly work with JavaScript and Java but enjoy experimenting with different tools. I thrive in team collaborations, actively participate in hackathons, and stay updated through blogs, YouTube, and tech communities.
+I'm a simple guy who loves building things that live on the internet. Flexible with my tech stack, I mainly work with JavaScript and Java but enjoy experimenting with different tools. I thrive in team collaborations, actively participate in hackathons, and stay updated through blogs, YouTube, and tech communities.
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
