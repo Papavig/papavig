@@ -1,4 +1,6 @@
-![Gif](https://raw.githubusercontent.com/Papavig/Papavig/main/Assets/gif)
+<div style="width: 100%">
+     <img src="https://raw.githubusercontent.com/Papavig/Papavig/main/Assets/gif" alt="Gif" style="width: 100%; height: auto;">
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Papavig&label=CAUGHT%20PEEKING&color=000000&style=for-the-badge&abbreviated=true)
 
@@ -19,10 +21,13 @@ While I can work across the stack, I prefer frontend development because I love 
 One of my most memorable hackathons was my first-ever hackathon, organized by GeeksforGeeks. Another standout experience was Aviskar, a competition where we pitched innovative ideas for systems that could help society. The event itself was great, but the best part? It was held in a remote location, and after our judging session, some seniors and I explored the venue, stumbled upon a lake, and spent some quality time there—it made the whole experience unforgettable.
 
 For me, coding is more than just writing code. It’s about solving problems, creating useful things, and constantly improving. That’s my goal—to keep learning, keep building, and get better at what I do every day.
+
 </details>
 
 ---
+
 ## 💻 Tech Stack
+
 <div align="center">
  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -74,8 +79,8 @@ For me, coding is more than just writing code. It’s about solving problems, cr
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </div>
 
-
 ## 📊 GitHub Stats:
+
 <div align="center">
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=Papavig&background=black&screen_effect=true&pixelate_avatar=false&hide=rank,contributions" />
 <picture>
@@ -86,6 +91,7 @@ For me, coding is more than just writing code. It’s about solving problems, cr
 </div>
 
 ## 🌐 Socials:
+
 <div align="left">
   <a href="https://vigdev.vercel.app/" target="blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website">
