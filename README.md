@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/Papavig/Papavig/dev/Assets/Caf.jpg" alt="Cat" style="width: 100%; height: auto;">
+  <img src="https://raw.githubusercontent.com/Papavig/Papavig/main/Assets/Caf.jpg" alt="Cat" style="width: 100%; height: auto;">
 </div>
 
 <p>
