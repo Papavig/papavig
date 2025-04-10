@@ -1,8 +1,10 @@
-<div style="width: 100%">
-     <img src="https://raw.githubusercontent.com/Papavig/Papavig/main/Assets/gif.gif" alt="Gif" style="width: 100%; height: auto;">
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/Papavig/Papavig/dev/Assets/cat.jpg" alt="Cat" style="width: 100%; height: auto;">
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Papavig&label=CAUGHT%20PEEKING&color=000000&style=for-the-badge&abbreviated=true)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Papavig&label=CAUGHT%20PEEKING&color=000000&style=for-the-badge&abbreviated=true" alt="Profile views">
+</p>
 
 # 🐵 Vignesh Esakkiappan
 
