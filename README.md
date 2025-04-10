@@ -6,14 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=Papavig&label=CAUGHT%20PEEKING&color=000000&style=for-the-badge&abbreviated=true" alt="Profile views">
 </p>
 
-# 🐵 Vignesh Esakkiappan
+# 🐱 Vignesh Esakkiappan
 
 **`Devloper/Student`**
 
 I'm a simple guy who loves building things that live on the internet. Flexible with my tech stack, I mainly work with JavaScript and Java but enjoy experimenting with different tools. I thrive in team collaborations, actively participate in hackathons, and stay updated through blogs, YouTube, and tech communities.
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h3>My Coding Journey</h3></summary>
   I’ve always been interested in tech, but my curiosity about how things work truly pushed me toward coding. During the lockdown, I finally had time to think about it seriously, even before I started my Computer Science degree. By my first year, my interest kept growing—I wanted to understand how systems function at a deeper level.
 
 I love building things that stay on the internet. I started simple with HTML and CSS, then explored Python, but it didn’t quite click for me. Around the same time, I was introduced to C and C++ in 11th grade, and that’s when I really started enjoying programming. This interest stuck with me until my second year of college when I discovered Java—it quickly became my favorite language. Over time, I also picked up MySQL, MongoDB, and JavaScript, which I genuinely enjoy working with.
@@ -26,9 +26,9 @@ For me, coding is more than just writing code. It’s about solving problems, cr
 
 </details>
 
----
+#
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
@@ -81,10 +81,10 @@ For me, coding is more than just writing code. It’s about solving problems, cr
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </div>
 
-## 📊 GitHub Stats:
+#
 
 <div align="center">
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=Papavig&background=black&screen_effect=true&pixelate_avatar=false&hide=rank,contributions" />
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Papavig&background=white&color=black&screen_effect=true&hide=avatar" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Papavig/Papavig/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
@@ -92,19 +92,19 @@ For me, coding is more than just writing code. It’s about solving problems, cr
 </picture>
 </div>
 
-## 🌐 Socials:
+## Socials:
 
-<div align="left">
-  <a href="https://vigdev.vercel.app/" target="blank">
+<p align="center">
+  <a href="https://vigdev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website">
-  </a>
-  <a href="https://instagram.com/beingvig" target="blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/beingvig" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/papavig" target="blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/papavig" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:beingvig@gmail.com" target="blank">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:beingvig@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</div>
+</p>
