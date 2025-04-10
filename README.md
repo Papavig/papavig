@@ -1,6 +1,6 @@
-![Coding Gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![Gif](https://raw.githubusercontent.com/Papavig/Papavig/main/Assets/gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=Papavig&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Papavig&label=CAUGHT%20PEEKING&color=000000&style=for-the-badge&abbreviated=true)
 
 # 🐵 Vignesh Esakkiappan
 
@@ -76,17 +76,17 @@ For me, coding is more than just writing code. It’s about solving problems, cr
 
 
 ## 📊 GitHub Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=papavig&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papavig&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
-
+<div align="center">
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Papavig&background=black&screen_effect=true&pixelate_avatar=false&hide=rank,contributions" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Papavig/Papavig/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tPapavig/Papavig/output/github-snake.svg" />
 </picture>
+</div>
 
 ## 🌐 Socials:
-<div align="center">
+<div align="left">
   <a href="https://vigdev.vercel.app/" target="blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website">
   </a>
