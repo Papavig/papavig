@@ -1,27 +1,21 @@
-<div style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/beingvig/beingvig/main/Assets/Caf.jpg" alt="Cat" style="width: 100%; height: auto;">
-</div>
+![Cat](https://raw.githubusercontent.com/beingvig/beingvig/main/Assets/Caf.jpg)
+![Profile views](https://komarev.com/ghpvc/?username=beingvig&label=CAUGHT%20PEEKING&color=000000&style=for-the-badge&abbreviated=true)
+# Vignesh Esakkiappan
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=beingvig&label=CAUGHT%20PEEKING&color=000000&style=for-the-badge&abbreviated=true" alt="Profile views">
-</p>
+**`Linux & Systems Enthusiast`**
 
-# 🐱 Vignesh Esakkiappan
-
-**`Devloper/Student`**
-
-I'm a simple guy who loves building things that live on the internet. Flexible with my tech stack, I mainly work with JavaScript and Java but enjoy experimenting with different tools. I thrive in team collaborations, actively participate in hackathons, and stay updated through blogs, YouTube, and tech communities.
+I enjoy building terminal applications, websites, and the occasional system project. I'm always tinkering with my Linux setup, chasing a simpler workflow, and building things that help me learn. **More about me on my [website.](https://beingvig.vercel.app/)**
 
 <details>
- <summary><h3>My Coding Journey</h3></summary>
-  I’ve always been interested in tech, but my curiosity about how things work truly pushed me toward coding. During the lockdown, I finally had time to think about it seriously, even before I started my Computer Science degree. By my first year, my interest kept growing—I wanted to understand how systems function at a deeper level.
+ <summary><b>My Coding Journey</b></summary></br>
 
-I love building things that stay on the internet. I started simple with HTML and CSS, then explored Python, but it didn’t quite click for me. Around the same time, I was introduced to C and C++ in 11th grade, and that’s when I really started enjoying programming. This interest stuck with me until my second year of college when I discovered Java—it quickly became my favorite language. Over time, I also picked up MySQL, MongoDB, and JavaScript, which I genuinely enjoy working with.
+I started coding during the COVID lockdown because I was bored. What began with HTML and CSS eventually turned into a genuine curiosity about how websites work.
 
-While I can work across the stack, I prefer frontend development because I love bringing ideas to life in a way people can see and interact with.
+When I started my Computer Science degree, C and C++ introduced me to programming beyond writing code. They made me interested in systems, reading other people's code, and understanding what happens behind the scenes.
 
-One of my most memorable hackathons was my first-ever hackathon, organized by GeeksforGeeks. Another standout experience was Aviskar, a competition where we pitched innovative ideas for systems that could help society. The event itself was great, but the best part? It was held in a remote location, and after our judging session, some seniors and I explored the venue, stumbled upon a lake, and spent some quality time there—it made the whole experience unforgettable.
+Later, I gave Linux another chance. Ubuntu never really clicked for me, but Fedora did. From there I started learning more about the operating system, customizing my workflow, and exploring how everything fit together. Discovering Omarchy pushed me even further—it made me want to build my own environment instead of relying on someone else's setup.
 
-For me, coding is more than just writing code. It’s about solving problems, creating useful things, and constantly improving. That’s my goal—to keep learning, keep building, and get better at what I do every day.
+Today I run CachyOS with Hyprland on my main machine, where I'm constantly experimenting and refining my workflow. 
 
+If you'd like to use my configs, you can find my dotfiles [here.](https://github.com/beingvig/dotfiles)
 </details>
